@@ -1,0 +1,6 @@
+numpy==1.21.5
+scipy==1.7.3
+matplotlib==3.5.1
+schemdraw==0.15
+ziamath==0.7
+latex2mathml==3.74.1
